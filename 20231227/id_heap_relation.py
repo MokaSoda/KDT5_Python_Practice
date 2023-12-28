@@ -10,4 +10,7 @@ print(id(year))
 
 year = '2023'
 print(id(year))
+
+
+
 # 위 경우 문자열 2023으로 새로 저장된다.

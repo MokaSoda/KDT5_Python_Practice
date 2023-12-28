@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2fa6f7e-572a-417d-82fc-3da89b198949" name="Changes" comment="9/55 break time">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/20231227/1227.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/20231227/1227.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231227/id_heap_relation.py" beforeDir="false" afterPath="$PROJECT_DIR$/20231227/id_heap_relation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,9 @@
       <workItem from="1703644193782" duration="46000" />
       <workItem from="1703651796891" duration="521000" />
       <workItem from="1703655306087" duration="4000" />
+      <workItem from="1703667907632" duration="63000" />
+      <workItem from="1703676034045" duration="5000" />
+      <workItem from="1703722834474" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="Start project 12/26">
       <option name="closed" value="true" />
