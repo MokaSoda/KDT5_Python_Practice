@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2fa6f7e-572a-417d-82fc-3da89b198949" name="Changes" comment="9/55 break time" />
+    <list default="true" id="a2fa6f7e-572a-417d-82fc-3da89b198949" name="Changes" comment="9/55 break time">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20240102/0102.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/20240102/0102.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +78,8 @@
       <workItem from="1703676034045" duration="5000" />
       <workItem from="1703722834474" duration="591000" />
       <workItem from="1703752288432" duration="6000" />
+      <workItem from="1704168596110" duration="104000" />
+      <workItem from="1704169252528" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Start project 12/26">
       <option name="closed" value="true" />
