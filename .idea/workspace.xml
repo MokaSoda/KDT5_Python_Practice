@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a2fa6f7e-572a-417d-82fc-3da89b198949" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20240104/0104.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/20240104/0104.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,17 @@
       <list>
         <option value="Jupyter Notebook" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -92,6 +104,8 @@
       <workItem from="1704264035124" duration="6125000" />
       <workItem from="1704270625972" duration="1255000" />
       <workItem from="1704272375903" duration="13000" />
+      <workItem from="1704340837842" duration="5623000" />
+      <workItem from="1704347689592" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="Start project 12/26">
       <option name="closed" value="true" />
