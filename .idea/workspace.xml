@@ -110,7 +110,7 @@
       <workItem from="1704415674167" duration="4071000" />
       <workItem from="1704427321449" duration="12940000" />
       <workItem from="1704453404275" duration="3000" />
-      <workItem from="1704672397880" duration="2829000" />
+      <workItem from="1704672397880" duration="8087000" />
     </task>
     <task id="LOCAL-00001" summary="Start project 12/26">
       <option name="closed" value="true" />
@@ -208,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704672503280</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="이전 연습 백업, 20240108 시작">
+      <option name="closed" value="true" />
+      <created>1704675428365</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704675428365</updated>
+    </task>
+    <task id="LOCAL-00014" summary="0105일자 파일 복원 후 백업">
+      <option name="closed" value="true" />
+      <created>1704675575607</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704675575607</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +254,7 @@
     <MESSAGE value="복습 연습" />
     <MESSAGE value="함수 학습중" />
     <MESSAGE value="이전 연습 백업, 20240108 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="이전 연습 백업, 20240108 시작" />
+    <MESSAGE value="0105일자 파일 복원 후 백업" />
+    <option name="LAST_COMMIT_MESSAGE" value="0105일자 파일 복원 후 백업" />
   </component>
 </project>
